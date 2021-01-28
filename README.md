@@ -1,2 +1,2 @@
 # Test2
- secnod test, desktop to net
+ second test, desktop to net
